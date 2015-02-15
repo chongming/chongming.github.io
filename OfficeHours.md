@@ -12,7 +12,7 @@ var firstDay = new Date(2015,2,1,0,0,0); //2015-3-1
 var now = Date.now();
 var week =  Math.round((now-firstDay.getTime())/86400000.0/7.0+0.5);
 if(week<0||week>19) week=0;
-document.write("提示：本周是本学期的第"+week+"周");
+document.write("提示：本周是本学期的第<b><font color=blue>"+week+"</font></b>教学周");
 </SCRIPT>
 
 <table class="table table-bordered table-condensed">
@@ -26,7 +26,7 @@ document.write("提示：本周是本学期的第"+week+"周");
  <tbody>
    <tr>
       <td>1  </td>
-      <td>周二上午，周四上午，，信机楼311  </td>
+      <td>周二上午，周四上午，信机楼311  </td>
       <td> </td>
    </tr>
 <!--
