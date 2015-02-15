@@ -7,6 +7,14 @@ description: ""
 
 ##本学期现场答疑时间
 
+<SCRIPT LANGUAGE="JavaScript">
+var firstDay = new Date(2015,2,1,0,0,0); //2015-3-1
+var now = Date.now();
+var week =  Math.round((now-firstDay.getTime())/86400000.0/7.0+0.5);
+if(week<0||week>19) week=0;
+document.write("提示：本周是本学期的第"+week+"周");
+</SCRIPT>
+
 <table class="table table-bordered table-condensed">
  <thead>
    <tr>
@@ -18,9 +26,10 @@ description: ""
  <tbody>
    <tr>
       <td>1  </td>
-      <td>周五晚上16:10-20:10，信机楼311 </td>
+      <td>周二上午，周四上午，，信机楼311  </td>
       <td> </td>
    </tr>
+<!--
    <tr>
       <td>2  </td>
       <td>周五12:10-13:10，周五晚上16:10-20:10，信机楼311 </td>
@@ -91,7 +100,7 @@ description: ""
       <td>12.17周三8:00-9:30和13:10-20:10 信机楼311，12.19周五8:00-9:30 信机楼311  </td>
       <td> </td>
    </tr>
-
+-->
 
  </tbody>
 </table>
