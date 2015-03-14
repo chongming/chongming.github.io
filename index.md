@@ -3,7 +3,7 @@ layout: page
 title: Chongming Zhang's Homepage
 tagline: 
 ---
-张崇明，博士，副教授，硕导。
+张崇明，博士，副教授，“通信与信息系统”和“电子与通信工程”学科硕导。
 [**本学期答疑时间**](http://chongming.github.io/OfficeHours.html)
 
 本科及研究生（硕士）毕业于天津大学精密仪器与光电子工程学院，博士毕业于复旦大学计算机科学技术学院。在中兴通讯南京研发中心做过三年通信软件的开发。目前在上海师范大学信息与机电工程学院从事教学与科研工作。
@@ -31,7 +31,7 @@ tagline:
 	 1. 张瑜,王益涵,张崇明,郭荣, ARM嵌入式程序设计: 北京航空航天大学出版社, 2009. 
 
   * 译著
-     1. Ivan Idris著,张崇明译 [NumPy攻略：Python科学计算与数据分析](http://www.ituring.com.cn/book/1183). 人民邮电出版社, 2013.
+     1. Ivan Idris著,张崇明译 [NumPy攻略：Python科学计算与数据分析](http://www.ituring.com.cn/book/1183). 人民邮电出版社,2013年.
      2. Adrian McEwen,Hakim Cassimally著,张崇明译. [物联网设计：从原型到产品](http://www.ituring.com.cn/book/1302). 人民邮电出版社,2015年.
  
 
