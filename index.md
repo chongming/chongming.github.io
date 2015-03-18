@@ -3,7 +3,7 @@ layout: page
 title: Chongming Zhang's Homepage
 tagline: 
 ---
-张崇明，博士，副教授，“通信与信息系统”和“电子与通信工程”学科硕导（[**考研调剂信息**](http://chongming.github.io/tiaoji.html)）。
+张崇明，博士，副教授，“通信与信息系统”和“电子与通信工程”学科硕导（**欢迎有调剂意愿的考生联系！**）。
 [**本学期答疑时间**](http://chongming.github.io/OfficeHours.html)
 
 本科及研究生（硕士）毕业于天津大学精密仪器与光电子工程学院，博士毕业于复旦大学计算机科学技术学院。在中兴通讯南京研发中心做过三年通信软件的开发。目前在上海师范大学信息与机电工程学院从事教学与科研工作。
