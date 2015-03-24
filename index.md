@@ -3,20 +3,20 @@ layout: page
 title: Chongming Zhang's Homepage
 tagline: 
 ---
-张崇明，博士，副教授，“通信与信息系统”和“电子与通信工程”学科硕导（**欢迎有调剂意愿的考生联系！**）。
+张崇明，博士，副教授，“通信与信息系统”和“电子与通信工程”学科硕导。
 [**本学期答疑时间**](http://chongming.github.io/OfficeHours.html)
 
 本科及研究生（硕士）毕业于天津大学精密仪器与光电子工程学院，博士毕业于复旦大学计算机科学技术学院。在中兴通讯南京研发中心做过三年通信软件的开发。目前在上海师范大学信息与机电工程学院从事教学与科研工作。
 
-- 研究方向
+- **研究方向**
   * 智能信息处理（肌电、肌音信号分析与处理）
   * 实用数据分析（面向物联网、可穿戴计算领域）
   * 工程教育技术
 
-- 联系方式
+- **联系方式**
   * E-mail: czhang AT shnu.edu.cn
 
-- 主要论著
+- **主要论著**
   * 论文
      1. C.-m. Wang, C.-m. Zhang, J.-z. Zou, and J. Zhang, "Performance evaluation for epileptic electroencephalogram (EEG) detection by using Neyman–Pearson criteria and a support vector machine," Physica A: Statistical Mechanics and its Applications, vol. 391, pp. 1602-1609, 2012.
      2. C. Zhang, C. Wang, X. Zhou, and C. Gao, "Distributed Sensor Data Fault Detection Featuring Similarity Measurement," IJACT: International Journal of Advancements in Computing Technology, vol. 4, pp. 106-114, 2012.
