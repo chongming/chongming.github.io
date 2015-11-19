@@ -77,22 +77,22 @@ document.write("提示：本周是本学期的第<b><font color=blue>"+week+"</f
    </tr>
    <tr>
       <td>11  </td>
-      <td>周二全天，信机楼311</td>
+      <td>周二下午，信机楼311</td>
       <td> </td>
    </tr>
    <tr>
       <td>12  </td>
-      <td>周二全天，信机楼311  </td>
+      <td>周二下午，信机楼311  </td>
       <td> </td>
    </tr>
    <tr>
       <td>13  </td>
-      <td>周二全天，信机楼311 </td>
+      <td>周二下午，信机楼311 </td>
       <td> </td>
    </tr>
    <tr>
       <td>14  </td>
-      <td>周二全天，信机楼311 </td>
+      <td>周二下午，信机楼311 </td>
       <td> </td>
    </tr>
    <tr>
