@@ -19,9 +19,10 @@ tagline:
 
 - **主要论著**
   * 论文
-     1. C.-m. Wang, C.-m. Zhang, J.-z. Zou, and J. Zhang, "Performance evaluation for epileptic electroencephalogram (EEG) detection by using Neyman–Pearson criteria and a support vector machine," Physica A: Statistical Mechanics and its Applications, vol. 391, pp. 1602-1609, 2012.
-     2. C. Zhang, C. Wang, X. Zhou, and C. Gao, "Distributed Sensor Data Fault Detection Featuring Similarity Measurement," IJACT: International Journal of Advancements in Computing Technology, vol. 4, pp. 106-114, 2012.
-     3. C. Zhang, X. Zhou, C. Gao, and C. Wang, "On Improving the Precision of Localization with Gross Error Removal," in 28th International Conference on Distributed Computing Systems Workshops (ICDCSW '08), 2008, pp. 144-149.
+     1. 张崇明, 叶宏, 倪继锋, 汪春梅, 李传江, "本科一年级开设Arduino选修课的教学实践," 实验技术与管理, 2018, 35(3):169-171+194.
+     2. C.-m. Wang, C.-m. Zhang, J.-z. Zou, and J. Zhang, "Performance evaluation for epileptic electroencephalogram (EEG) detection by using Neyman–Pearson criteria and a support vector machine," Physica A: Statistical Mechanics and its Applications, 391(4), pp. 1602-1609, 2012.
+     3. C. Zhang, C. Wang, X. Zhou, and C. Gao, "Distributed Sensor Data Fault Detection Featuring Similarity Measurement," IJACT: International Journal of Advancements in Computing Technology, 4(4), pp. 106-114, 2012.
+     4. C. Zhang, X. Zhou, C. Gao, and C. Wang, "On Improving the Precision of Localization with Gross Error Removal," in 28th International Conference on Distributed Computing Systems Workshops (ICDCSW '08), 2008, pp. 144-149.
       
   * 专著  
      1. S. Anwar and C. Zhang, "Event Detection in Wireless Sensor Networks," in Handbook of Research on Mobility and Computing: Evolving Technologies and Ubiquitous Impacts. M. M. Cruz-Cunha and F. Moreira, Eds., IGI Global, 2010, pp. 237-249.(Book Chapter) 
